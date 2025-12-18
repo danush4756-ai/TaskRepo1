@@ -1,2 +1,2 @@
 Learning stash
-learning git conflict
+learning git conflict from t
